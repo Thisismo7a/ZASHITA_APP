@@ -121,7 +121,7 @@ Want to customize the detection engine? Train a model using your own dataset!
    string datasetPath = @"C:\Datasets\PE_Header.csv";
    ```
 
-   > **Note**: Start with `API_Functions.csv`, then rename to `PE_Header.csv`.  
+   > **Note**: Add ur dataset file in the dataset folder , then rename to `PE_Header.csv`.  
    > — mo7aaaaa 🔥
 
 3. **Train the Model**
@@ -168,10 +168,6 @@ copy zashita\dataset\PE_Header.csv C:\Datasets\
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-Questions? Suggestions?  
-Open an issue or reach out at your-email@example.com
-
-Happy scanning with Zashita! 🎉  
+ 
 — mo7aaaaa
