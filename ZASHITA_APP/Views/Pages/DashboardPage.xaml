@@ -179,14 +179,14 @@
                         </ListViewItem>
                         <ListViewItem>
                             <StackPanel Orientation="Horizontal">
-                                <TextBlock Text="Quarantine :" FontWeight="Bold" Margin="0,0,5,0"/>
+                                <TextBlock Text="About App :" FontWeight="Bold" Margin="0,0,5,0"/>
                                 <TextBlock Text="THIS APP HAS THE MIT LICENSE ... AUTHOR : @Thisismo7a"/>
                             </StackPanel>
                         </ListViewItem>
                         <ListViewItem>
                             <StackPanel Orientation="Horizontal">
                                 <TextBlock Text="Full Scan Alert :" FontWeight="Bold" Margin="0,0,5,0"/>
-                                <TextBlock Text="Perform a quick scan to check temporary files for potential threats."/>
+                                <TextBlock Text="Do a full scan to ur device ASAPPP"/>
                             </StackPanel>
                         </ListViewItem>
                     </ListView>
