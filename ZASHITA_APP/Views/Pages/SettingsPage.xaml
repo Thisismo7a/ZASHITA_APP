@@ -81,7 +81,7 @@
             Grid.Row="6"
             Grid.Column="0"
             TextWrapping="Wrap"
-            Text="Follow the main account on github @Thisismo7a"
+            Text="Follow the main account of the DEV on github @Thisismo7a"
             HorizontalAlignment="Left" Margin="13,273,0,7" RenderTransformOrigin="0.5,0.5" >
             <ui:TextBlock.RenderTransform>
                 <TransformGroup>
